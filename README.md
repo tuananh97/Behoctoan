@@ -43,7 +43,7 @@
 
 ## Kịch bản các Use case
 
-####Các Features:
+#### Các Features:
 
 [Chơi trò chơi
 ](https://github.com/tuananh97/INT2208-2-2017/blob/master/Nhom-FallenBlossom/userstory/choitrochoi.feature)
@@ -51,7 +51,7 @@
 [Học toán
 ](https://github.com/tuananh97/INT2208-2-2017/blob/master/Nhom-FallenBlossom/userstory/hoctoan.feature)
 
-####Các Uni-test:
+#### Các Uni-test:
 
 
 
