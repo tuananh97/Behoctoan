@@ -1,5 +1,5 @@
 ## Websites: http://behoctoan.freevnn.com
-https://drive.google.com/drive/folders/0BwCAlSfu13ULSkM1SHQzNFdmWjA?usp=sharing
+
 ## Nhóm FallenBlossom
 
 #### Trần Tuấn Anh
@@ -51,16 +51,7 @@ https://drive.google.com/drive/folders/0BwCAlSfu13ULSkM1SHQzNFdmWjA?usp=sharing
 [Học toán
 ](https://github.com/tuananh97/INT2208-2-2017/blob/master/Nhom-FallenBlossom/userstory/hoctoan.feature)
 
-#### Các Uni-test:
-
-
-
-
-
-
-
-
-## Khung ứng dụng lựa chọn: AngularJS
+## Framework: AngularJS
 
 
 
